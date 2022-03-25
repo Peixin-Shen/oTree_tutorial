@@ -1,0 +1,10 @@
+body {front-family: Arial; color: #111111;}
+#page {width: 940px;
+margin: 20px auto 20px auto;}
+#instruction {margin-bottom: 40px;}
+table {width: 600px; margin: 20px auto 20px auto;}
+th, td { padding: 7px 10px 10px 10px; text-align: center;}
+th { border-bottom: 2px solid #111111;
+border-top: 2px solid #999999;}
+tr.even {background-color: #efefef;}
+tr:hover {background-color: #c3e6e5;}
