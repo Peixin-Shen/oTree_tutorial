@@ -1,3 +1,3 @@
 # oTree_tutorial
 
-document: https://hackmd.io/0gEfyOe1QSObzbsMOR9bMA?view
+document: https://hackmd.io/@Peixin/Hk6wwndMc
